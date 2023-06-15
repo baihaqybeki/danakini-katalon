@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Valid Login</description>
+   <name>TC-DK04</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <testCaseGuid>861d17b1-dbb6-49d5-bf96-140c5e061b34</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'com.dki.danakini'</initValue>
+      <name>apps</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'existingaccount@yopmail.com'</initValue>
+      <name>EmailExistingAccount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'082110457432'</initValue>
+      <name>VirtualPhoneNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'0YxpsP8li3zdyEmHibOJRg=='</initValue>
+      <name>KataSandi</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'John Doe'</initValue>
+      <name>name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'invalidemail@yopmail.com'</initValue>
+      <name>InvalidEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'v6Bn19YnmvrKznVYd+q2+A=='</initValue>
+      <name>InvalidPassword</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

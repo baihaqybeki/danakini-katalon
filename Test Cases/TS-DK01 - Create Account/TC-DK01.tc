@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Valid register</description>
+   <name>TC-DK01</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <testCaseGuid>f260a883-d42b-4d36-a7f0-4a2bb445186a</testCaseGuid>
+</TestCaseEntity>

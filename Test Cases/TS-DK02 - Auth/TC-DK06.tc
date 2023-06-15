@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid Password</description>
+   <name>TC-DK06</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <testCaseGuid>352d24b8-67e6-4a95-bbbe-7a672e28e688</testCaseGuid>
+</TestCaseEntity>

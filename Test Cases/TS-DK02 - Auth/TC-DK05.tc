@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid Email</description>
+   <name>TC-DK05</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <testCaseGuid>2adaf132-6e5f-41ee-baf9-7b2484d97efa</testCaseGuid>
+</TestCaseEntity>
